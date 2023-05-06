@@ -5,6 +5,7 @@ public class Class01 {
         //v2 ahahha
         //v3 olustur
         //v4
+        DEĞİKİKLİKKKK
        
 
 githubtan sevilerle
