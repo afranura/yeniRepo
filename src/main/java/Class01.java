@@ -8,6 +8,7 @@ public class Class01 {
         //V5 olustur yolla
 
 githubtan sevilerle
+        //localden sevgilerle..
 
     }
 }
