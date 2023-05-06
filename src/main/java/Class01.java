@@ -7,7 +7,7 @@ public class Class01 {
         //v4
         //V5 olustur yolla
 
-
+githubtan sevilerle
 
     }
 }
